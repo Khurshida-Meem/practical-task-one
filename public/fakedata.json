@@ -3,137 +3,95 @@
         "id": 1,
         "place": "Sajek Valley",
         "country": "Bangladesh",
-        "thumb": "https://avijatrik.org/wp-content/uploads/2019/06/cover22-870x555.jpg",
-        "star": 3.7,
-        "starCount": 8716,
-        "cost": 450
+        "thumb": "https://avijatrik.org/wp-content/uploads/2019/06/cover22-870x555.jpg"
     },
     {
         "id": 2,
         "place": "St. Martin's Island",
         "country": "Bangladesh",
         "thumb": "https://www.assignmentpoint.com/wp-content/uploads/2017/10/saint-martin-bangladesh-1.jpg",
-        "via": "Plane, Bus, Ship",
-        "star": 4.6,
-        "starCount": 4031,
-        "cost": 650
+        "via": "Plane, Bus, Ship"
     },
     {
         "id": 3,
         "place": "Sundarbans",
         "dist": "Khulna Division",
         "country": "Bangladesh",
-        "thumb": "https://media-eng.dhakatribune.com/uploads/2020/09/9-new-project-1599296482873.jpg",
-        "star": 4.4,
-        "starCount": 2628,
-        "cost": 1000
+        "thumb": "https://media-eng.dhakatribune.com/uploads/2020/09/9-new-project-1599296482873.jpg"
     },
     {
         "id": 4,
         "place": "Sreemangal",
         "country": "Bangladesh",
-        "thumb": "https://chokkor.com/wp-content/uploads/2018/10/Sreemangal-1.jpg",
-        "star": 4.5,
-        "starCount": 5628,
-        "cost": 500
+        "thumb": "https://chokkor.com/wp-content/uploads/2018/10/Sreemangal-1.jpg"
     },
     {
         "id": 5,
         "place": "Istanbul",
         "country": "Turkey",
-        "thumb": "https://www.worldatlas.com/r/w1200/upload/00/88/e2/istanbul-bosphorus-strait.jpg",
-        "star": 5,
-        "starCount": 64567,
-        "cost": 3000
+        "thumb": "https://www.worldatlas.com/r/w1200/upload/00/88/e2/istanbul-bosphorus-strait.jpg"
     },
     {
         "id": 6,
         "place": "Athens",
         "country": "Greece",
-        "thumb": "https://www.tourmag.com/photo/art/default/7732587-11968584.jpg?v=1430253115",
-        "star": 4.9,
-        "starCount": 43567,
-        "cost": 7000
+        "thumb": "https://www.tourmag.com/photo/art/default/7732587-11968584.jpg?v=1430253115"
     },
     {
         "id": 7,
         "place": "Bali",
         "country": "Island in Indonesia",
-        "thumb": "https://www.traveldailymedia.com/assets/2020/07/bali.jpg",
-        "star": 4.5,
-        "starCount": 10410,
-        "cost": 5000
+        "thumb": "https://www.traveldailymedia.com/assets/2020/07/bali.jpg"
     },
     {
         "id": 8,
         "place": "Nagarkot",
         "country": "Nepal",
-        "thumb": "https://img.traveltriangle.com/blog/wp-content/uploads/2015/10/nagarkot-Beautiful-view-of-the-Himalayas-from-Nagarkot.jpg",
-        "star": 3.1,
-        "starCount": 16410,
-        "cost": 4500
+        "thumb": "https://img.traveltriangle.com/blog/wp-content/uploads/2015/10/nagarkot-Beautiful-view-of-the-Himalayas-from-Nagarkot.jpg"
     },
     {
         "id": 9,
         "place": "Indira Gandhi Memorial Tulip garden",
         "country": "India(Jammu and Kashmir)",
-        "thumb": "http://www.lovethesepics.com/wp-content/uploads/2013/05/Seabird-Island-tulip-fields.jpg",
-        "star": 3.5,
-        "starCount": 10410,
-        "cost": 5000
+        "thumb": "http://www.lovethesepics.com/wp-content/uploads/2013/05/Seabird-Island-tulip-fields.jpg"
     },
     {
         "id": 10,
         "place": "Sikkim",
         "country": "India",
-        "thumb": "https://cdn.theculturetrip.com/wp-content/uploads/2017/11/sikkim.jpg",
-        "star": 4.5,
-        "starCount": 10410,
-        "cost": 1000
+        "thumb": "https://cdn.theculturetrip.com/wp-content/uploads/2017/11/sikkim.jpg"
     },
     {
         "id": 11,
         "place": "The Matterhorn",
         "country": "Switzerland ",
-        "thumb": "https://i.insider.com/58936e390849ec1a008b4619?width=700",
-        "star": 4.7,
-        "starCount": 2410,
-        "cost": 2000
+        "thumb": "https://i.insider.com/58936e390849ec1a008b4619?width=700"
     },
     {
         "id": 12,
         "place": "Disney land",
         "country": "Paris",
-        "thumb": "https://c.files.bbci.co.uk/E83A/production/_100205495_gettyimages-656904182.jpg",
-        "star": 4.7,
-        "starCount": 2410,
-        "cost": 2000
+        "thumb": "https://c.files.bbci.co.uk/E83A/production/_100205495_gettyimages-656904182.jpg"
     },
     {
         "id": 13,
         "place": "Mars",
         "country": "Loading",
-        "thumb": "https://www.exploremars.org/wp-content/uploads/2019/11/Mars-Home_2-1024x640.jpg",
-        "star": 5,
-        "starCount": 22410,
-        "cost": 200000
+        "thumb": "https://www.exploremars.org/wp-content/uploads/2019/11/Mars-Home_2-1024x640.jpg"
+        
     },
     {
         "id": 14,
         "place": "Moon",
         "country": "Loading",
-        "thumb": "https://static01.nyt.com/images/2020/10/29/style/28MOON-01/oakImage-1603985177355-mediumSquareAt3X.jpg",
-        "star": 5,
-        "starCount": 12410,
-        "cost": 100000
+        "thumb": "https://static01.nyt.com/images/2020/10/29/style/28MOON-01/oakImage-1603985177355-mediumSquareAt3X.jpg"
+        
     },
     {
         "id": 15,
         "place": "Earth",
         "country": "Loading",
-        "thumb": "https://media.istockphoto.com/photos/asia-at-night-planet-earth-city-lights-space-picture-id1299973245?b=1&k=20&m=1299973245&s=170667a&w=0&h=UNvlTPr29TPFg69s2EX2rSfzM1142AuKKQfpo0K3tHY=",
-        "star": 2,
-        "starCount": 410,
-        "cost": 0
+        "thumb": "https://media.istockphoto.com/photos/asia-at-night-planet-earth-city-lights-space-picture-id1299973245?b=1&k=20&m=1299973245&s=170667a&w=0&h=UNvlTPr29TPFg69s2EX2rSfzM1142AuKKQfpo0K3tHY="
+        
     }
 ]

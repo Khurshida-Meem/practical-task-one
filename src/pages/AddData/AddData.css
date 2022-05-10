@@ -1,0 +1,9 @@
+.catagory-bg {
+    background-color: #035485;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+label, input {
+    display: block;
+}
