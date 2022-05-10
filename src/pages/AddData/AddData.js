@@ -4,11 +4,11 @@ import './AddData.css'
 
 const AddData = ({ time }) => {
 
-    const [show, setShow] = useState(false)
+    const [show, setShow] = useState(false);
     const [data, setData] = useState({});
     const [places, setPlaces] = useState([]);
 
-    const url = 'https://raw.githubusercontent.com/Khurshida-Meem/fake-Datas/main/Your%20Highwy/practical-task'
+    const url = 'https://raw.githubusercontent.com/Khurshida-Meem/fake-Datas/main/Your%20Highwy/practical-task';
 
     useEffect(() => {
         fetch(url)

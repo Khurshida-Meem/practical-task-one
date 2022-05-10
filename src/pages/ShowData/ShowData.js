@@ -14,7 +14,7 @@ const ShowData = ({ places }) => {
                 </thead>
                 <tbody>
                     {
-                        places.map(place => (
+                        places?.map(place => (
                             <tr key={place.id}>
                                 <td>
                                     <img className='rounded' src={place.thumb} alt="" height='50px' />

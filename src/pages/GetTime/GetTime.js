@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import AddData from '../AddData/AddData';
-import AddDataByClass from '../AddDataByClass/AddDataByClass';
+// import AddDataByClass from '../AddDataByClass/AddDataByClass';
 
 class GetTime extends Component {
 
