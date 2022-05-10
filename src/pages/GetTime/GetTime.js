@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import AddData from '../AddData/AddData';
+import AddDataByClass from '../AddDataByClass/AddDataByClass';
 
 class GetTime extends Component {
 
@@ -25,7 +26,11 @@ class GetTime extends Component {
         const { date } = this.state;
         const { locale } = this.props;
         return (
+            <>
                 <AddData time={date.toLocaleTimeString(locale)} />
+                {/* <AddDataByClass time={date.toLocaleTimeString(locale)} /> */}
+            </>
+
         );
     }
 
