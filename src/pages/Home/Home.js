@@ -1,11 +1,10 @@
 import React from 'react';
-import AddData from '../AddData/AddData';
+import GetTime from '../GetTime/GetTime';
 
 const Home = () => {
     return (
         <div>
-            <AddData /> 
-            {/* <ShowData /> */}
+            <GetTime />
         </div>
     );
 };
