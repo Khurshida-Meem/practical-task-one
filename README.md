@@ -5,3 +5,4 @@
 - Add data through input field and save to the local storage and marge new data with previously fetched data.
 - Show data in the webpage from the local storage.
 - Show data in the UI as soon as the data has been inserted.
+- Used lifecycle of class component 
